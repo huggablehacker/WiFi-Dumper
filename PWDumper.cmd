@@ -3,5 +3,5 @@ REM Make and Change Directory
 mkdir WiFiDump
 cd WiFiDump
 
-REM Dump saved Wi-Fi infos
+REM Dump the WiFi's
 netsh wlan export profile key=clear
